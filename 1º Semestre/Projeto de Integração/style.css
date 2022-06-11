@@ -1,0 +1,339 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Anton', sans-serif;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+
+body{
+    background: white;
+}
+
+.cabecalho {
+    background: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    height: 70px;
+    padding: 46px;
+}
+
+.cabecalho-imagem {
+    height: 70px;
+}
+
+.cabecalho-menu {
+    display: flex;
+    gap: 32px;
+}
+
+nav a{
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+}
+nav a:hover{
+    color: #ff0000;
+}
+
+.conteudos {
+    margin-bottom: 48px;
+    border-top: 0.4px solid rgb(54, 54, 54);
+    overflow-x:hidden
+
+}
+
+.conteudos-principal {
+    background-image: url('./imagem/banner\ principal.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    padding: 5rem;
+    color: rgb(250, 249, 249);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.conteudos-principal-meio {
+    background-image: url('./imagem/fundo.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    padding: 5rem;
+    color: rgb(250, 249, 249);
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.conteudos-principal button{
+    height: 40px;
+    width: 200px;
+    color: #fff;
+    font-size: 16px;
+    border-style: none;
+}
+.conteudos-principal-escrito{
+    height: 30rem;
+    width: 40rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.conteudos-principal-escrito-titulo{ 
+    font-size: 5.5rem;
+}
+
+.conteudos-principal-escrito-titulo-subtitulo{
+    font-size: 22px;
+}
+
+button {
+    margin-top: 20px;
+    width: 150px;
+   --button_radius: 0.75em;
+   --button_color: #e8e8e8;
+   --button_outline_color: #000000;
+   font-size: 17px;
+   font-weight: bold;
+   border: none;
+   border-radius: var(--button_radius);
+   background: var(--button_outline_color);
+}
+  
+.conteudo_button_top {
+   display: block;
+   box-sizing: border-box;
+   border: 2px solid var(--button_outline_color);
+   border-radius: var(--button_radius);
+   padding: 0.75em 1.5em;
+   background: var(--button_color);
+   color: var(--button_outline_color);
+   transform: translateY(-0.2em);
+   transition: transform 0.1s ease;
+}
+
+.conteudo_button_size{
+   width: 200px;
+}
+  
+button:hover .conteudo_button_top {
+   transform: translateY(-0.33em);
+}
+  
+button:active .conteudo_button_top {
+   transform: translateY(0);
+}
+  
+.titulo-fundo{ 
+    font-size: 5rem;
+}
+
+.conteudos-cardapio{
+    background: #ff0000;
+    padding: 15px;
+    color: #fff;
+    text-align: center;
+}
+
+/*--------*/
+/*seção lanche*/
+.conteudos-hamburguer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+    padding: 50px;
+}
+.container{
+    display: grid;
+    place-content: center;
+    width: 50%;
+    height: auto;
+    flex-wrap: wrap;
+}
+.hamburguer{
+    display: flex;
+    align-items: center;
+}
+.hamburguer img{
+    width: 200px;
+}
+.hamburguer div{
+    margin: 15px;
+}
+.hamburguer p{
+    margin: 25px;
+}
+.hamburguer button{
+    margin: 15px;
+    width: 140px;
+    cursor: pointer;
+    height: 40px;
+    background: #fff;
+    font-size: 15px;
+}
+.preco{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+.titulo-container{
+    color: rgb(116, 172, 245);
+    text-align: center;
+    font-size: 30px;
+    padding: 50px 0 15px;
+}
+.sub-container{
+    text-align: center;
+}
+
+/*seção bebida*/
+.container-bebida{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+    padding: 5rem;
+    justify-content: space-evenly;
+}
+.bebida{
+    display: inline-block;
+    flex-direction: row-reverse;
+}
+.container-bebida .titulo{
+    text-align: center;
+    font-weight: bold;
+    padding: 15px;
+}
+.preco-bebida{
+    background: #ff0000;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    display: grid;
+    place-content: center;
+}
+.preco-bebida h3{
+    color: #fff;
+    font-weight: bold;
+}
+
+/*seção pedidos*/
+.container-pedido{
+    background-image: url('./imagem/pedido\ \(2\).jpg');
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+    background-attachment: fixed;
+}
+.container-pedido .titulo{ 
+    font-size: 5rem;
+    color: #fff;
+    width: 450px;
+    font-weight: bold;
+}
+.container-pedido .subtitulo{
+    color: #fff;
+    font-weight: bold;
+}
+.container-meio{
+    padding: 30px;
+}
+.container-meio p, button{
+    margin: 15px;
+}
+
+/*seção mapa*/
+.map{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.titulo-map{
+    width: 100%;
+    text-align: center;
+    padding: 50px;
+    font-weight: bold;
+}
+
+/*rodape*/
+footer{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: auto;
+    background: rgb(32, 32, 32);
+}
+footer p{
+    padding: 25px;
+    color: #fff;
+}
+.whats{
+    width: 55px;
+    height: 55px;
+    position: fixed;
+    margin-bottom: 10px;
+    bottom: 0;
+    transform: translateX(630px);
+    cursor: pointer;
+}
+
+.conteudos-rodape-escrito {
+    width: 85%;
+}
+
+.conteudos-rodape-escrito > p {
+    text-align: justify;
+    align-items: center;
+    margin-left: 1%;
+    font-family: 'Anton', sans-serif;
+    font-size: 15px;
+    color: white;
+}
+
+footer {
+    display: flex;
+    position: absolute;
+    background-color: black;
+    height: auto;
+    width: 100%;
+}
+
+.bloco-imagens {
+    margin-right: 10px;
+    margin-top: 1.5%;
+    right: 0;
+    position: absolute;
+    width: 15%;
+}
+
+.bloco-imagens > a > img{
+    background-color:#eceeef;
+    color:#818a91;
+    font-size:16px;
+    display:inline-block;
+    line-height:35px;
+    width:35px;
+    height:35px;
+    text-align:right;
+    margin-right:20px;
+    border-radius:100%;
+    -webkit-transition:all .2s linear;
+    -o-transition:all .2s linear;
+    transition:all .2s linear
+}
