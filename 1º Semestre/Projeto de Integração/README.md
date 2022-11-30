@@ -17,13 +17,13 @@
 
 :pushpin: Status do Projeto: :heavy_check_mark: **Finished**
 
-→ [Voltar ao topo](#topo)
+→ [Back at the top](#topo)
 
 <span id="tecnologias">
 
 ## 🛠️ Technologies 🛠️ 
 
-As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
+The following technologies were used in this project:
     
 <!--<img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" />-->
 <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
@@ -32,26 +32,26 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" />
 
-→ [Voltar ao topo](#topo)
+→ [Back at the top](#topo)
 
 <span id="equipe">
 
 ## :busts_in_silhouette: Equipe
     
-| Nome                    | LinkedIn & GitHub |
+| Name                    | LinkedIn & GitHub |
 | :-----------------------| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
 | Cássio Silva Takarada | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cassiosilvatakarada7/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/cassiotakarada) |    
 | Higor Braga da Silva | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/higor-braga-99010ba1/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/bragahigor) |    
 | Wilian Nascimento | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wiliannascimento/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/wiliannascimento) |
 
 
-→ [Voltar ao topo](#topo)
+→ [Back at the top](#topo)
 
 <span id="final">
 
-## :clapper: Apresentação Final do Projeto :clapper:
+## :clapper: Final Presentation :clapper:
     
 Link: https://cassiotakarada.github.io/FATEC/
     
 
-→ [Voltar ao topo](#topo)
+→ [Back at the top](#topo)
