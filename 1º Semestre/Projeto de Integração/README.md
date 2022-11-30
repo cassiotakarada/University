@@ -15,7 +15,7 @@
 
 <p align="justify">Due to food delivery growth, a solid process and logistics management are crucial factors for a restaurant to succeed. It must be well organized, practical and precise with the client order. Therefore, our project was developed targeting local e-commerces, helping them to achieve a better relationship with their clients through a website that offers great process and logistics managment with a minimalistic interface that delivers what is being ordered with precision and agility maximazing the restaurant profits.<p>
 
-:pushpin: Status do Projeto: :heavy_check_mark: **Finished**
+:pushpin: Status: :heavy_check_mark: **Finished**
 
 → [Back at the top](#topo)
 
