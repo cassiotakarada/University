@@ -3,25 +3,25 @@
 <p align="center"> <img src="imagem/LOGO.png" /></p>
 
 <p align="center">
-    <a href="#sobre">Sobre</a>  |     
-    <a href="#tecnologias">Tecnologias</a>  |  
-    <a href="#equipe">Equipe</a>  |  
-    <a href="#final">Apresentação Final</a>
+    <a href="#sobre">About</a>  |     
+    <a href="#tecnologias">Technologies</a>  |  
+    <a href="#equipe">Team</a>  |  
+    <a href="#final">Final Presentation</a>
 </p>
 
 <span id="sobre">
 
-## :bookmark_tabs: Sobre o projeto
+## :bookmark_tabs: About the project
 
-<p align="justify">Com o grande crescimento do delivery, ter uma gestão de processos e uma logística bem estruturadas são fatores cruciais para o sucesso de uma hamburgueria, logo precisam ser muito bem organizadas, principalmente na área de recebimentos de pedidos, atendimento e praticidade ao cliente. Dessa maneira, nosso e-commerce local foi criado especialmente para hamburguerias que desejam facilitar sua gestão e logística, fornecendo a melhor solução na mediação de negócios online, facilitando toda a venda, desde a aquisição e o processamento até o pagamento e a entrega de seus produtos através de um serviço à domicílio realizado pelo sistema delivery, criando laços fortes com seus fornecedores, gerando satisfação dos seus clientes e maximizando os resultados dos restaurantes.<p>
+<p align="justify">Due to food delivery growth, a solid process and logistics management are crucial factors for a restaurant to succeed. It must be well organized, practical and precise with the client order. Therefore, our project was developed targeting local e-commerces, helping them to achieve a better relationship with their clients through a website that offers great process and logistics managment with a minimalistic interface that delivers what is being ordered with precision and agility maximazing the restaurant profits.<p>
 
-:pushpin: Status do Projeto: :heavy_check_mark: **Finalizado**
+:pushpin: Status do Projeto: :heavy_check_mark: **Finished**
 
 → [Voltar ao topo](#topo)
 
 <span id="tecnologias">
 
-## 🛠️ Tecnologias 🛠️ 
+## 🛠️ Technologies 🛠️ 
 
 As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na construção do projeto:
     
