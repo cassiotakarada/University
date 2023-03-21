@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish';
+}
+
+:root {
+    --black: #000000;
+    --dark-gray: #26292C;
+    --gray: #E0E0E0;
+    --light-red: #FF2D04;
+    --dark-red: #C13216;
+    --white: #FFFFFF;
+
+    --dashboard-gray: #DCDFE3;
+    --dashboard-red: #FF0024;
+    --dashboard-light-red: #FF3D1F;
+    --dashboard-orange: #FF8000;
+    --dashboard-yellow: #FECE00;
+    --dashboard-green: #00BA88;
+}
+
+.Nav {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 70px;
+    width: 100%;
+    padding-top: 20px;
+    font-weight: bolder;
+    background-color: var(--dark-gray);
+    color: var(--dashboard-gray);
+}
+
+.ContainerInput {
+    padding-top: 30px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.ContainerMain {
+    padding-top: 30px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.ColorInput {
+    padding-top: 30px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}

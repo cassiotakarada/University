@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700;800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Oxanium', cursive;
+}
+
+body {
+  text-align: center;
+  background: linear-gradient(to bottom, #6ab7f5, #fff);
+  min-height: 100vh;
+}
+
+main {
+  display: inline-block;
+  margin-top: 2%;
+  padding: 15px;
+  position: relative;
+}
+
+.container{
+    text-align: center;
+    background-color: #e1e1e1;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+  
+  img{
+    right: 0;
+    position: absolute;
+    height: 150px;
+    width: 105px;
+    border: solid 1px black;
+  }
+
+  .cinzaEscuro{
+    top: 50%;
+    margin-top: -200px;
+    width: 250px;
+    height: 60px;
+    left: 65%;
+    position: absolute;
+  }
+
+  b{
+    position: relative;
+    top: 10px;
+  }
+
+  .preto{
+    border: solid 2px;
+    top: 50%;
+    margin-top: -135px;
+    position: absolute;
+    background-color: #444;
+    height: 300px;
+    width: 250px;
+    left: 65%;
+  }
+
+  .cinzaClaro{
+    position: absolute;
+    border: solid 1px;
+    left: 50%;
+    margin-left: -370px;
+    top: 50%;
+    margin-top: -190px;
+    position: absolute;
+    height: 350px;
+    width: 500px;
+    background-color: snow;
+  }
+
+  .cinzaEscuro{
+    background-color: #b6b5b5;
+  }
+
+  .bnt{
+    margin: 10px;
+    background-color: black;
+    color: snow;
+    border-radius: 5px;
+    height: 30px;
+    width: 50px;
+  }
+
+  .teclado2{
+    font-size: 11px;
+    position: absolute;
+    bottom: 20px;
+    left: 5px;
+    color: black;
+  }
+
+  .branco{
+    height: 40px;
+    width: 75px;
+    background-color: white;
+  }
+
+  .branco:active {
+      box-shadow: inset -4px 4px 0 #222;
+  }
+
+  .laranja{
+    height: 40px;
+    width: 75px;
+    background-color: #ffa143d8;
+  }
+
+  .laranja:active {
+    box-shadow: inset -4px 4px 0 #222;
+}
+
+  .verde{
+    height: 40px;
+    width: 75px;
+    background-color: rgb(28, 156, 28);
+  }
+
+  .verde:active {
+    box-shadow: inset -4px 4px 0 #222;
+}
